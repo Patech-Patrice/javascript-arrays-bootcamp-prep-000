@@ -5,3 +5,6 @@ var ingredient4 = "butter";
 var ingredient5 = "tomato";
 var ingredient6 = "garlic";
 var chocolatebars = [snickers,hundredgrand,kitkat,skittles];
+function addElementToBeginningOfArray()
+
+function destructivelyAddElementToBeginningOfArray
